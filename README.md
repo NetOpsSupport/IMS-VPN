@@ -43,7 +43,6 @@
 #### Click "Next"
 ![alt text](https://github.com/NetOpsSupport/IMS-VPN/blob/master/Install-03.PNG)
 ***
-
 #### Click "Install"
 ![alt text](https://github.com/NetOpsSupport/IMS-VPN/blob/master/Install-04.PNG)
 ***
@@ -64,33 +63,35 @@
 
 ## 2.1 Configuration Setup
 
-####
+#### Copy the file IMS-VPN.ovpn into the folder located at C:\Users\YOUR-USERNAME\OpenVPN\config
 ![alt text](https://github.com/NetOpsSupport/IMS-VPN/blob/master/Config-01.PNG)
 ***
 
-####
+#### The result should look like the following screen shot
 ![alt text](https://github.com/NetOpsSupport/IMS-VPN/blob/master/Config-02.PNG)
 ***
 
 ## 2.2 Connecting to VPN
 
-####
+#### Double click on the OpenVPN GUI icon on the desktop
 ![alt text](https://github.com/NetOpsSupport/IMS-VPN/blob/master/Config-03.PNG)
 ***
 
-####
+#### Go into the drop down menu on the lower right side of the monitor and right click the OpenVPN GUI icon
 ![alt text](https://github.com/NetOpsSupport/IMS-VPN/blob/master/Config-04.PNG)
 ***
 
-####
+#### Click "Connect"
 ![alt text](https://github.com/NetOpsSupport/IMS-VPN/blob/master/Config-05.PNG)
 ***
 
-####
+#### Please enter your username and password
+#### Username: domain-user@ims.local
+#### Password: Your Domain Password
 ![alt text](https://github.com/NetOpsSupport/IMS-VPN/blob/master/Config-06.PNG)
 ***
 
-####
+#### Now you are connected
 ![alt text](https://github.com/NetOpsSupport/IMS-VPN/blob/master/Config-07.PNG)
 ***
 
