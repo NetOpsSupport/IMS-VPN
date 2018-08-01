@@ -32,31 +32,31 @@
 
 ### 1.2 Running Installer
 
-####
+#### Click "Next"
 ![alt text](https://github.com/NetOpsSupport/IMS-VPN/blob/master/Install-01.PNG)
 ***
 
-####
+#### Click "I Agree"
 ![alt text](https://github.com/NetOpsSupport/IMS-VPN/blob/master/Install-02.PNG)
 ***
 
-####
+#### Click "Next"
 ![alt text](https://github.com/NetOpsSupport/IMS-VPN/blob/master/Install-03.PNG)
 ***
 
-####
+#### Click "Install"
 ![alt text](https://github.com/NetOpsSupport/IMS-VPN/blob/master/Install-04.PNG)
 ***
 
-####
+#### A second window will open, click "Install" on the second window
 ![alt text](https://github.com/NetOpsSupport/IMS-VPN/blob/master/Install-05.PNG)
 ***
 
-####
+#### Click "Next"
 ![alt text](https://github.com/NetOpsSupport/IMS-VPN/blob/master/Install-06.PNG)
 ***
 
-####
+#### Click "Finish"
 ![alt text](https://github.com/NetOpsSupport/IMS-VPN/blob/master/Install-07.PNG)
 ***
 
