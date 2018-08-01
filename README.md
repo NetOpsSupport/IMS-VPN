@@ -26,7 +26,9 @@
 
 ### 1.1 Organizing Files
 
+#### The files below is everything required to get connected.
 ![alt text](https://github.com/NetOpsSupport/IMS-VPN/blob/master/OrgFiles-01.PNG)
+***
 
 ### 1.2 Running Installer
 
