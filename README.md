@@ -67,3 +67,53 @@
 
 ![alt text](https://github.com/NetOpsSupport/IMS-VPN/blob/master/Config-07.PNG)
 
+# 3. Troubleshooting
+
+## 3.1 Testing Connection
+
+#### In order to test the VPN connection we will try to connect to a computer.
+
+#### Open CMD by going into the start menu and searching for "cmd". Click on the icon when it shows up.
+
+![alt text](https://github.com/NetOpsSupport/IMS-VPN/blob/master/Trouble-01.PNG)
+
+#### Type the following command, if your results look the same as the screenshot the connection is working.
+* Command: ping 10.2.1.2
+
+![alt text](https://github.com/NetOpsSupport/IMS-VPN/blob/master/Trouble-02.PNG)
+
+## 3.2 VPN States
+
+The bottom right drop down menu contains an icon which changes color, depending on the state of the VPN connection.
+
+### Connected State (Green)
+
+* Connected state means that the VPN is connected and working.
+
+![alt text](https://github.com/NetOpsSupport/IMS-VPN/blob/master/Trouble-03.PNG)
+
+### Connecting State (Yellow)
+
+* Connecting state means that a connection to the VPN is attempting to be made.
+* This happens every time you connect to the VPN in the beginning of a session.
+* This can also occur if your computer has lost internet temporarily.
+
+![alt text](https://github.com/NetOpsSupport/IMS-VPN/blob/master/Trouble-04.PNG)
+
+### Disconnected State (Grey)
+
+* Disconnected state means that the VPN is not active.
+
+![alt text](https://github.com/NetOpsSupport/IMS-VPN/blob/master/Trouble-05.PNG)
+
+## 3.3 Password Error
+
+If your password does not work the VPN will give the following error.
+
+![alt text](https://github.com/NetOpsSupport/IMS-VPN/blob/master/Trouble-06.PNG)
+
+Possible Causes:
+* Password Incorrect
+* Password Expired
+* Account Locked Out
+
