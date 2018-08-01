@@ -64,23 +64,35 @@
 
 ## 2.1 Configuration Setup
 
-
+####
 ![alt text](https://github.com/NetOpsSupport/IMS-VPN/blob/master/Config-01.PNG)
+***
 
+####
 ![alt text](https://github.com/NetOpsSupport/IMS-VPN/blob/master/Config-02.PNG)
-
+***
 
 ## 2.2 Connecting to VPN
 
+####
 ![alt text](https://github.com/NetOpsSupport/IMS-VPN/blob/master/Config-03.PNG)
+***
 
+####
 ![alt text](https://github.com/NetOpsSupport/IMS-VPN/blob/master/Config-04.PNG)
+***
 
+####
 ![alt text](https://github.com/NetOpsSupport/IMS-VPN/blob/master/Config-05.PNG)
+***
 
+####
 ![alt text](https://github.com/NetOpsSupport/IMS-VPN/blob/master/Config-06.PNG)
+***
 
+####
 ![alt text](https://github.com/NetOpsSupport/IMS-VPN/blob/master/Config-07.PNG)
+***
 
 # 3. Troubleshooting
 
