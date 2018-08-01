@@ -32,7 +32,9 @@
 
 ### 1.2 Running Installer
 
-#### Please run the VPN-Installer.exe file by double clicking on it
+#### Please run the VPN-Installer.exe file by double clicking on it and following the instructions below.
+
+***
 
 #### Click "Next"
 ![alt text](https://github.com/NetOpsSupport/IMS-VPN/blob/master/Install-01.PNG)
