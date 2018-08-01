@@ -40,15 +40,25 @@
 ![alt text](https://github.com/NetOpsSupport/IMS-VPN/blob/master/Install-02.PNG)
 ***
 
+####
 ![alt text](https://github.com/NetOpsSupport/IMS-VPN/blob/master/Install-03.PNG)
+***
 
+####
 ![alt text](https://github.com/NetOpsSupport/IMS-VPN/blob/master/Install-04.PNG)
+***
 
+####
 ![alt text](https://github.com/NetOpsSupport/IMS-VPN/blob/master/Install-05.PNG)
+***
 
+####
 ![alt text](https://github.com/NetOpsSupport/IMS-VPN/blob/master/Install-06.PNG)
+***
 
+####
 ![alt text](https://github.com/NetOpsSupport/IMS-VPN/blob/master/Install-07.PNG)
+***
 
 # 2. Configuring VPN Software
 
