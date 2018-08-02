@@ -156,6 +156,23 @@ Possible Causes:
 * Please download a troubleshooting program [from here](https://github.com/NetOpsSupport/IMS-VPN/releases/download/1/Troubleshoot.bat) in order to follow the instructions.
 ***
 
-#### Download a troubleshooting program [from here](https://github.com/NetOpsSupport/IMS-VPN/releases/download/1/Troubleshoot.bat).
+#### Please run the troubleshooting program by double click on the file.
 ![alt text](https://github.com/NetOpsSupport/IMS-VPN/blob/master/Help-01.PNG)
+***
+
+#### It is possible that the following window may show up, in this case click "More Info"
+![alt text](https://github.com/NetOpsSupport/IMS-VPN/blob/master/Help-02.PNG)
+***
+
+#### After click "Run Anyway"
+![alt text](https://github.com/NetOpsSupport/IMS-VPN/blob/master/Help-03.PNG)
+***
+
+#### At this point a window will show up which looks similar to the one in the screenshot
+![alt text](https://github.com/NetOpsSupport/IMS-VPN/blob/master/Help-04.PNG)
+***
+
+#### When the program is finished the file manager will open with a text file highlighted.
+#### Please send the following text file to IT through email.
+![alt text](https://github.com/NetOpsSupport/IMS-VPN/blob/master/Help-05.PNG)
 ***
