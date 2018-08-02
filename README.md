@@ -157,5 +157,5 @@ Possible Causes:
 ***
 
 #### Download a troubleshooting program [from here](https://github.com/NetOpsSupport/IMS-VPN/releases/download/1/Troubleshoot.bat).
-![alt text](https://github.com/NetOpsSupport/IMS-VPN/blob/master/Help-01.png)
+![alt text](https://github.com/NetOpsSupport/IMS-VPN/blob/master/Help-01.PNG)
 ***
