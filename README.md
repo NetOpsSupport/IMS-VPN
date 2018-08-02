@@ -97,6 +97,7 @@
 ***
 
 #### Now you are connected
+#### If you come across any issues please consult the [troubleshooting](#3-troubleshooting) section
 ![alt text](https://github.com/NetOpsSupport/IMS-VPN/blob/master/Config-07.PNG)
 ***
 
