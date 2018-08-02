@@ -152,4 +152,10 @@ Possible Causes:
 
 ## 3.4 Further Assistance
 
-fewwfewfewfewf
+* If you require further assistance please follow the following instructions.
+* Please download a troubleshooting program [from here](https://github.com/NetOpsSupport/IMS-VPN/releases/download/1/Troubleshoot.bat) in order to follow the instructions.
+***
+
+#### Download a troubleshooting program [from here](https://github.com/NetOpsSupport/IMS-VPN/releases/download/1/Troubleshoot.bat).
+![alt text](https://github.com/NetOpsSupport/IMS-VPN/blob/master/Help-01.png)
+***
