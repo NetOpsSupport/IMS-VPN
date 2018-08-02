@@ -14,7 +14,7 @@
       * [3.1 Testing Connection](#31-testing-connection)   
       * [3.2 VPN States](#32-vpn-states)
       * [3.3 Password Error](#33-password-error)
-      * [3.4 Further Assistance](34-further-assistance)
+      * [3.4 Further Assistance](#34-further-assistance)
     
 <!--te-->
 
