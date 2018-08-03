@@ -21,7 +21,7 @@
 # Prerequisites
 
 * You should have received a file named IMS-VPN.ovpn, if not please request from IT.
-* You must also download the client software to your computer [from here](https://github.com/NetOpsSupport/IMS-VPN/releases/download/1/VPN-Installer.exe)
+* You must also download the client software to your computer [from here](https://github.com/NetOpsSupport/IMS-VPN/releases/download/1/VPN-Installer.exe).
 
 # 1. VPN Client Installation
 
@@ -37,30 +37,30 @@
 
 ***
 
-#### Click "Next"
+#### Click "Next".
 ![alt text](https://github.com/NetOpsSupport/IMS-VPN/blob/master/Install-01.PNG)
 ***
 
-#### Click "I Agree"
+#### Click "I Agree".
 ![alt text](https://github.com/NetOpsSupport/IMS-VPN/blob/master/Install-02.PNG)
 ***
 
-#### Click "Next"
+#### Click "Next".
 ![alt text](https://github.com/NetOpsSupport/IMS-VPN/blob/master/Install-03.PNG)
 ***
-#### Click "Install"
+#### Click "Install".
 ![alt text](https://github.com/NetOpsSupport/IMS-VPN/blob/master/Install-04.PNG)
 ***
 
-#### A second window will open, click "Install" on the second window
+#### A second window will open, click "Install" on the second window.
 ![alt text](https://github.com/NetOpsSupport/IMS-VPN/blob/master/Install-05.PNG)
 ***
 
-#### Click "Next"
+#### Click "Next".
 ![alt text](https://github.com/NetOpsSupport/IMS-VPN/blob/master/Install-06.PNG)
 ***
 
-#### Click "Finish"
+#### Click "Finish".
 ![alt text](https://github.com/NetOpsSupport/IMS-VPN/blob/master/Install-07.PNG)
 ***
 
@@ -68,36 +68,36 @@
 
 ## 2.1 Configuration Setup
 
-#### Copy the file IMS-VPN.ovpn into the folder located at C:\Users\YOUR-USERNAME\OpenVPN\config
+#### Copy the file IMS-VPN.ovpn into the folder located at 'C:\Users\YOUR-USERNAME\OpenVPN\config'.
 ![alt text](https://github.com/NetOpsSupport/IMS-VPN/blob/master/Config-01.PNG)
 ***
 
-#### The result should look like the following screen shot
+#### The result should look like the following screen shot.
 ![alt text](https://github.com/NetOpsSupport/IMS-VPN/blob/master/Config-02.PNG)
 ***
 
 ## 2.2 Connecting to VPN
 
-#### Double click on the OpenVPN GUI icon on the desktop
+#### Double click on the OpenVPN GUI icon on the desktop.
 ![alt text](https://github.com/NetOpsSupport/IMS-VPN/blob/master/Config-03.PNG)
 ***
 
-#### Go into the drop down menu on the lower right side of the monitor and right click the OpenVPN GUI icon
+#### Go into the drop down menu on the lower right side of the monitor and right click the OpenVPN GUI icon.
 ![alt text](https://github.com/NetOpsSupport/IMS-VPN/blob/master/Config-04.PNG)
 ***
 
-#### Click "Connect"
+#### Click "Connect".
 ![alt text](https://github.com/NetOpsSupport/IMS-VPN/blob/master/Config-05.PNG)
 ***
 
-#### Please enter your username and password
+#### Please enter your username and password.
 #### Username: domain-user@ims.local
 #### Password: Your Domain Password
 ![alt text](https://github.com/NetOpsSupport/IMS-VPN/blob/master/Config-06.PNG)
 ***
 
-#### Now you are connected
-#### If you come across any issues please consult the [troubleshooting](#3-troubleshooting) section
+#### Now you are connected.
+#### If you come across any issues please consult the [troubleshooting](#3-troubleshooting) section.
 ![alt text](https://github.com/NetOpsSupport/IMS-VPN/blob/master/Config-07.PNG)
 ***
 
@@ -161,15 +161,15 @@ Possible Causes:
 ![alt text](https://github.com/NetOpsSupport/IMS-VPN/blob/master/Help-01.PNG)
 ***
 
-#### It is possible that the following window may show up, in this case click "More Info"
+#### It is possible that the following window may show up, in this case click "More Info".
 ![alt text](https://github.com/NetOpsSupport/IMS-VPN/blob/master/Help-02.PNG)
 ***
 
-#### After click "Run Anyway"
+#### After click "Run Anyway".
 ![alt text](https://github.com/NetOpsSupport/IMS-VPN/blob/master/Help-03.PNG)
 ***
 
-#### At this point a window will show up which looks similar to the one in the screenshot
+#### At this point a window will show up which looks similar to the one in the screenshot.
 ![alt text](https://github.com/NetOpsSupport/IMS-VPN/blob/master/Help-04.PNG)
 ***
 
