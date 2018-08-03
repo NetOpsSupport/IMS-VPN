@@ -72,7 +72,7 @@
 ![alt text](https://github.com/NetOpsSupport/IMS-VPN/blob/master/Config-01.PNG)
 ***
 
-#### The result should look like the following screen shot.
+#### The result should look like the following screenshot.
 ![alt text](https://github.com/NetOpsSupport/IMS-VPN/blob/master/Config-02.PNG)
 ***
 
