@@ -76,6 +76,10 @@
 ![alt text](https://github.com/NetOpsSupport/IMS-VPN/blob/master/Init-02.PNG)
 ***
 
+#### Copy the file IMS-VPN.ovpn into the folder located at 'C:\Users\YOUR-USERNAME\OpenVPN\config'.
+![alt text](https://github.com/NetOpsSupport/IMS-VPN/blob/master/Config-01.PNG)
+***
+
 #### The result should look like the following screenshot.
 ![alt text](https://github.com/NetOpsSupport/IMS-VPN/blob/master/Config-02.PNG)
 ***
