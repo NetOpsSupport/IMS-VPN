@@ -73,7 +73,7 @@
 ***
 
 #### nfeonfwe.
-![alt text](https://github.com/NetOpsSupport/IMS-VPN/blob/master/Init-01.PNG)
+![alt text](https://github.com/NetOpsSupport/IMS-VPN/blob/master/Init-02.PNG)
 ***
 
 #### The result should look like the following screenshot.
