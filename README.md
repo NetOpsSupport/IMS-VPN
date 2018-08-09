@@ -86,7 +86,7 @@
 
 ## 2.2 Connecting to VPN
 
-#### Double click on the OpenVPN GUI icon on the desktop.
+#### Please double click on the OpenVPN GUI icon on your desktop.
 ![alt text](https://github.com/NetOpsSupport/IMS-VPN/blob/master/Config-03.PNG)
 ***
 
