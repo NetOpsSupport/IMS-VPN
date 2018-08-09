@@ -69,11 +69,11 @@
 ## 2.1 Configuration Setup
 
 #### Please double click on the OpenVPN GUI icon on your desktop.
-![alt text](https://github.com/NetOpsSupport/IMS-VPN/blob/master/Init-01.PNG)
+![alt text](https://github.com/NetOpsSupport/IMS-VPN/blob/master/Config-03.PNG)
 ***
 
 #### It is possible the following message may show up, this is normal. Please continue with the instructions. 
-![alt text](https://github.com/NetOpsSupport/IMS-VPN/blob/master/Config-03.PNG)
+![alt text](https://github.com/NetOpsSupport/IMS-VPN/blob/master/Init-02.PNG)
 ***
 
 #### The result should look like the following screenshot.
