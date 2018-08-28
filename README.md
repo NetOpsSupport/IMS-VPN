@@ -145,6 +145,7 @@
 #### The password will be a combination of your pin and one time password. Please view below for an example.
 ![alt text](https://github.com/NetOpsSupport/IMS-VPN/blob/master/DualAuth-05.png)
 
+### Example Information
 * Pin Code: 1234
 * One Time Pin: 311 570
 
