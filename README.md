@@ -10,11 +10,12 @@
    * [2. Configuring VPN Software](#2-configuring-vpn-software)
       * [2.1 Configuration Setup](#21-configuration-setup)   
       * [2.2 Connecting to VPN](#22-connecting-to-vpn)
-   * [3. Troubleshooting](#3-troubleshooting)
-      * [3.1 Testing Connection](#31-testing-connection)   
-      * [3.2 VPN States](#32-vpn-states)
-      * [3.3 Password Error](#33-password-error)
-      * [3.4 Further Assistance](#34-further-assistance)
+   * [3. Two Factor Authentication](#2-two-factor-authentication)
+   * [4. Troubleshooting](#3-troubleshooting)
+      * [4.1 Testing Connection](#31-testing-connection)   
+      * [4.2 VPN States](#32-vpn-states)
+      * [4.3 Password Error](#33-password-error)
+      * [4.4 Further Assistance](#34-further-assistance)
     
 <!--te-->
 
@@ -109,9 +110,21 @@
 ![alt text](https://github.com/NetOpsSupport/IMS-VPN/blob/master/Config-07.PNG)
 ***
 
-# 3. Troubleshooting
+# 3. Two Factor Authentication
 
-## 3.1 Testing Connection
+Here we do some two factor
+
+## 3.1 Installation
+
+do some install here
+
+## 3.2 Authentication
+
+some auth ehere
+
+# 4. Troubleshooting
+
+## 4.1 Testing Connection
 
 #### In order to test the VPN connection we will try to connect to a computer.
 
@@ -124,7 +137,7 @@
 
 ![alt text](https://github.com/NetOpsSupport/IMS-VPN/blob/master/Trouble-02.png)
 
-## 3.2 VPN States
+## 4.2 VPN States
 
 The bottom right drop down menu contains an icon which changes color, depending on the state of the VPN connection.
 
@@ -148,7 +161,7 @@ The bottom right drop down menu contains an icon which changes color, depending 
 
 ![alt text](https://github.com/NetOpsSupport/IMS-VPN/blob/master/Trouble-05.png)
 
-## 3.3 Password Error
+## 4.3 Password Error
 
 If your password does not work the VPN will give the following error.
 
@@ -159,7 +172,7 @@ Possible Causes:
 * Password Expired
 * Account Locked Out
 
-## 3.4 Further Assistance
+## 4.4 Further Assistance
 
 * If you require further assistance please follow the following instructions.
 * Please download a troubleshooting program [from here](https://github.com/NetOpsSupport/IMS-VPN/releases/download/1/Troubleshoot.bat) in order to follow the instructions.
