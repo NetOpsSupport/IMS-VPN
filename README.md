@@ -129,6 +129,7 @@
 ***
 
 #### Select "Scan a barcode", and scan the bar code you have been provided.
+![alt text](https://github.com/NetOpsSupport/IMS-VPN/blob/master/DualAuth-031.png)
 ![alt text](https://github.com/NetOpsSupport/IMS-VPN/blob/master/DualAuth-03.png)
 ***
 
