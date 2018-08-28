@@ -143,11 +143,17 @@
 #### In order to authenticate with the VPN you must know your pin code and one time pin.
 #### The Google Authentication application will show you your one time pin, it will change every 30 seconds.
 ![alt text](https://github.com/NetOpsSupport/IMS-VPN/blob/master/DualAuth-05.png)
-***
 
 #### In order to authenticate enter your username as your would usually.
 #### The password will be a combination of your pin and one time password.
 #### For example, if the pin is 1234 and the one time password is 311 570, the password would be 1234311570.
+
+<blockquote>
+    <p>The password will be a combination of your pin and one time password.</p>
+    <p>This is a second paragraph within the blockquoted text.</p>
+    <p>For example, if the pin is 1234 and the one time password is 311 570, the password would be 1234311570</p>
+
+</blockquote>
 
 some auth ehere
 
