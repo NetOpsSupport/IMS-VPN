@@ -120,19 +120,20 @@
 
 ## 3.1 Installation
 
-#### Install
+#### Please enter the Play Store and download the application Google Authenticator.
 ![alt text](https://github.com/NetOpsSupport/IMS-VPN/blob/master/DualAuth-01.png)
 ***
 
-#### Install
+#### After the application is finished downloading launch it and press "Begin".
 ![alt text](https://github.com/NetOpsSupport/IMS-VPN/blob/master/DualAuth-02.png)
 ***
 
-#### Install
+#### Select "Scan a barcode", and scan the bar code you have been provided.
 ![alt text](https://github.com/NetOpsSupport/IMS-VPN/blob/master/DualAuth-03.png)
 ***
 
-#### Install
+#### Upon a successfull scan you will see the following screen.
+#### Please click "ADD ACCOUNT".
 ![alt text](https://github.com/NetOpsSupport/IMS-VPN/blob/master/DualAuth-04.png)
 ***
 
