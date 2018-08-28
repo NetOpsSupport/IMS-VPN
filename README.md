@@ -11,11 +11,11 @@
       * [2.1 Configuration Setup](#21-configuration-setup)   
       * [2.2 Connecting to VPN](#22-connecting-to-vpn)
    * [3. Two Factor Authentication](#2-two-factor-authentication)
-   * [4. Troubleshooting](#3-troubleshooting)
-      * [4.1 Testing Connection](#31-testing-connection)   
-      * [4.2 VPN States](#32-vpn-states)
-      * [4.3 Password Error](#33-password-error)
-      * [4.4 Further Assistance](#34-further-assistance)
+   * [4. Troubleshooting](#4-troubleshooting)
+      * [4.1 Testing Connection](#41-testing-connection)   
+      * [4.2 VPN States](#42-vpn-states)
+      * [4.3 Password Error](#43-password-error)
+      * [4.4 Further Assistance](#44-further-assistance)
     
 <!--te-->
 
