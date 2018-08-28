@@ -116,12 +116,19 @@
 # 3. Two Factor Authentication
 
 #### Please only follow this section only if you have been given a Two Factor Authentication account.
+#### Two Factor Authentication will be performed with an mobile Andriod phone.
 
 ## 3.1 Installation
 
-do some install here
+#### Install
+![alt text](https://github.com/NetOpsSupport/IMS-VPN/blob/master/dual-01.PNG)
+***
 
 ## 3.2 Authentication
+
+#### Install
+![alt text](https://github.com/NetOpsSupport/IMS-VPN/blob/master/dual-01.PNG)
+***
 
 some auth ehere
 
