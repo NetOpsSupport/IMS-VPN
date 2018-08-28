@@ -104,6 +104,7 @@
 #### Please enter your username and password.
 #### Username: domain-user@ims.local
 #### Password: Your Domain Password
+#### Note: If you have been given a Two Factor Authentication account please click [here](#3-two-factor-authentication).
 ![alt text](https://github.com/NetOpsSupport/IMS-VPN/blob/master/Config-06.PNG)
 ***
 
@@ -114,7 +115,7 @@
 
 # 3. Two Factor Authentication
 
-Here we do some two factor
+#### Please only follow this section only if you have been given a Two Factor Authentication account.
 
 ## 3.1 Installation
 
