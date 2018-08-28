@@ -149,7 +149,7 @@
 * One Time Pin: 311 570
 
 ### Authentication Credentials
-* Username: User1
+* Username: user1
 * Password: 1234311570
 
 # 4. Troubleshooting
