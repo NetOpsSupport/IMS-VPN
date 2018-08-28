@@ -121,13 +121,25 @@
 ## 3.1 Installation
 
 #### Install
-![alt text](https://github.com/NetOpsSupport/IMS-VPN/blob/master/dual-01.PNG)
+![alt text](https://github.com/NetOpsSupport/IMS-VPN/blob/master/DualAuth-01.png)
+***
+
+#### Install
+![alt text](https://github.com/NetOpsSupport/IMS-VPN/blob/master/DualAuth-02.png)
+***
+
+#### Install
+![alt text](https://github.com/NetOpsSupport/IMS-VPN/blob/master/DualAuth-03.png)
+***
+
+#### Install
+![alt text](https://github.com/NetOpsSupport/IMS-VPN/blob/master/DualAuth-04.png)
 ***
 
 ## 3.2 Authentication
 
 #### Install
-![alt text](https://github.com/NetOpsSupport/IMS-VPN/blob/master/dual-01.PNG)
+![alt text](https://github.com/NetOpsSupport/IMS-VPN/blob/master/DualAuth-05.png)
 ***
 
 some auth ehere
