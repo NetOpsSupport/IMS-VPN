@@ -5,11 +5,7 @@
    * [Table of contents](#table-of-contents)
    * [Prerequisites](#prerequisites)
    * [1. VPN Client Installation](#1-vpn-client-installation)
-      * [1.1 Organizing Files](#11-organizing-files)   
-      * [1.2 Running Installer](#12-running-installer)   
    * [2. Configuring VPN Software](#2-configuring-vpn-software)
-      * [2.1 Configuration Setup](#21-configuration-setup)   
-      * [2.2 Connecting to VPN](#22-connecting-to-vpn)
    * [3. Two Factor Authentication](#3-two-factor-authentication)
       * [3.1 Installation](#31-installation)
       * [3.2 Authentication](#32-authentication)
@@ -39,48 +35,16 @@
 * Define to use WinTun driver as on the picture below:  
 ![alt text](https://github.com/NetOpsSupport/IMS-VPN/blob/master/CustomInstall%20TUN.png)
 
-### 1.1 Organizing Files
-
-#### The files below is everything required to get connected.
-![alt text](https://github.com/NetOpsSupport/IMS-VPN/blob/master/OrgFiles-01.PNG)
-***
-
-### 1.2 Running Installer
-
-#### Please run the VPN-Installer.exe file by double clicking on it and following the instructions below.
-
-***
-
-#### Click "Next".
-![alt text](https://github.com/NetOpsSupport/IMS-VPN/blob/master/Install-01.PNG)
-***
-
-#### Click "I Agree".
-![alt text](https://github.com/NetOpsSupport/IMS-VPN/blob/master/Install-02.PNG)
-***
-
-#### Click "Next".
-![alt text](https://github.com/NetOpsSupport/IMS-VPN/blob/master/Install-03.PNG)
-***
-#### Click "Install".
-![alt text](https://github.com/NetOpsSupport/IMS-VPN/blob/master/Install-04.PNG)
-***
-
-#### A second window will open, click "Install" on the second window.
-![alt text](https://github.com/NetOpsSupport/IMS-VPN/blob/master/Install-05.PNG)
-***
-
-#### Click "Next".
-![alt text](https://github.com/NetOpsSupport/IMS-VPN/blob/master/Install-06.PNG)
-***
-
-#### Click "Finish".
-![alt text](https://github.com/NetOpsSupport/IMS-VPN/blob/master/Install-07.PNG)
-***
 
 # 2. Configuring VPN Software
 
+#### Copy the file IMS-VPN.ovpn into the folder located at 'C:\Users\YOUR-USERNAME\OpenVPN\config'.
+![alt text](https://github.com/NetOpsSupport/IMS-VPN/blob/master/Config-01.PNG)
+***
+
+
 ## 2.1 Configuration Setup
+
 
 #### Please double click on the OpenVPN GUI icon on your desktop.
 ![alt text](https://github.com/NetOpsSupport/IMS-VPN/blob/master/Config-03.PNG)
@@ -90,9 +54,7 @@
 ![alt text](https://github.com/NetOpsSupport/IMS-VPN/blob/master/Init-02.PNG)
 ***
 
-#### Copy the file IMS-VPN.ovpn into the folder located at 'C:\Users\YOUR-USERNAME\OpenVPN\config'.
-![alt text](https://github.com/NetOpsSupport/IMS-VPN/blob/master/Config-01.PNG)
-***
+
 
 #### The result should look like the following screenshot.
 ![alt text](https://github.com/NetOpsSupport/IMS-VPN/blob/master/Config-02.PNG)
