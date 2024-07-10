@@ -23,7 +23,7 @@
 
 # Prerequisites
 
-* You should have received a file named IMS-VPN.ovpn, if not please request from IT.
+* You should have received a file named [Name].ovpn, if not please request from IT.
 * You must also download the client software to your computer [from here](https://github.com/NetOpsSupport/IMS-VPN/releases/download/1/VPN-Installer.exe).
 
 # 1. VPN Client Installation
