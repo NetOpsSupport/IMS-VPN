@@ -33,12 +33,11 @@
 # 1. VPN Client Installation
 
 * Download an appropriate version of VPN client, as defined above in a temporary folder.
-* Run the installer:
-* Press "Custom"  below:
+* Run the installer, And press Custom button:
 ![alt text](https://github.com/NetOpsSupport/IMS-VPN/blob/master/CustomInstall.png)
 
 * Define to use WinTun driver as on the picture below:  
-![alt text](https://github.com/NetOpsSupport/IMS-VPN/blob/master/OrgFiles-01.PNG)
+![alt text](https://github.com/NetOpsSupport/IMS-VPN/blob/master/CustomInstall%20TUN.png)
 
 ### 1.1 Organizing Files
 
