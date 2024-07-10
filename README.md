@@ -24,9 +24,21 @@
 # Prerequisites
 
 * You should have received a file named [Name].ovpn, if not please request from IT.
-* You must also download the client software to your computer [from here](https://github.com/NetOpsSupport/IMS-VPN/releases/download/1/VPN-Installer.exe).
+* For outdated Windows 7/8 the latest version to download:  OpenVPN 2.6.2 -- Released 24 March 2023
+* Make sure downloaded colient math with your version of OS , 32 or 64 bit Operating System.  Start -> Run -> msinfo32.exe  may help
+* For Windows 10 \ 11 Download the latest version: https://openvpn.net/community-downloads/
+* For Windows 7 \ 8 Download OpenVPN 2.6.2 -- Released 24 March 2023
+
 
 # 1. VPN Client Installation
+
+* Download an appropriate version of VPN client, as defined above in a temporary folder.
+* Run the installer:
+* Press "Custom"  below:
+![alt text](https://github.com/NetOpsSupport/IMS-VPN/blob/master/OrgFiles-01.PNG)
+
+* Define to use WinTun driver as on the picture below:  
+![alt text](https://github.com/NetOpsSupport/IMS-VPN/blob/master/OrgFiles-01.PNG)
 
 ### 1.1 Organizing Files
 
