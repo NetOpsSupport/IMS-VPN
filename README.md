@@ -38,29 +38,10 @@
 
 # 2. Configuring VPN Software
 
-#### Copy the file IMS-VPN.ovpn into the folder located at 'C:\Users\YOUR-USERNAME\OpenVPN\config'.
+#### Copy the file IMS-VPN.ovpn into the folder located at 'C:\Users\[YOUR-USERNAME]\OpenVPN\config'.
 ![alt text](https://github.com/NetOpsSupport/IMS-VPN/blob/master/Config-01.PNG)
 ***
-
-
-## 2.1 Configuration Setup
-
-
-#### Please double click on the OpenVPN GUI icon on your desktop.
-![alt text](https://github.com/NetOpsSupport/IMS-VPN/blob/master/Config-03.PNG)
-***
-
-#### It is possible the following message may show up, this is normal. Please continue with the instructions. 
-![alt text](https://github.com/NetOpsSupport/IMS-VPN/blob/master/Init-02.PNG)
-***
-
-
-
-#### The result should look like the following screenshot.
-![alt text](https://github.com/NetOpsSupport/IMS-VPN/blob/master/Config-02.PNG)
-***
-
-## 2.2 Connecting to VPN
+# 3 Connecting to VPN
 
 #### Please double click on the OpenVPN GUI icon on your desktop.
 ![alt text](https://github.com/NetOpsSupport/IMS-VPN/blob/master/Config-03.PNG)
@@ -75,16 +56,13 @@
 ***
 
 #### Please enter your username and password.
-#### Username: domain-user@ims.local
-#### Password: Your Domain Password
-#### Note: If you have been given a Two Factor Authentication account please click [here](#3-two-factor-authentication).
+#### Username: [domain-user]@ims.local or designated username for VPN
+#### Password: Your [domain-user] password or designated password for VPN
+#### Password for 2FA: 4 digit Pin folow by 6 digit number
 ![alt text](https://github.com/NetOpsSupport/IMS-VPN/blob/master/Config-06.PNG)
 ***
 
 #### Now you are connected.
-#### If you come across any issues please consult the [troubleshooting](#4-troubleshooting) section.
-![alt text](https://github.com/NetOpsSupport/IMS-VPN/blob/master/Config-07.PNG)
-***
 
 # 3. Two Factor Authentication
 
