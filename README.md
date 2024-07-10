@@ -70,8 +70,10 @@
 #### Two Factor CAuthentication will be performed with an mobile Andriod phone.
 
 
-## 3.1 Authenticator sofware for Web Browser,  you need to install Plug-in and add the code to generate 6 digits one time password
-as an option:  Authenticator: 2FA Client  Featured:mymindstorm ;  You may findout beter suitable plug-in or use android phone authenticator
+## 3.1 Authenticator sofware for Web Browser
+
+#### You need to install Plug-in and add the code to generate 6 digits one time password. Ss an option:  
+**Authenticator: 2FA Client  by mymindstorm** ;  You may findout beter suitable plug-in or use android phone authenticator
 **[ For Edge Browser  ](https://microsoftedge.microsoft.com/addons/detail/authenticator-2fa-client/ocglkepbibnalbgmbachknglpdipeoio?hl=en-US)**
 **[ For Firefox Browser  ](https://microsoftedge.microsoft.com/addons/detail/authenticator-2fa-client/ocglkepbibnalbgmbachknglpdipeoio?hl=en-US)**
 
@@ -87,8 +89,8 @@ as an option:  Authenticator: 2FA Client  Featured:mymindstorm ;  You may findou
 ***
 
 #### Select "Scan a barcode", and scan the bar code you have been provided.
-![alt text](https://github.com/NetOpsSupport/IMS-VPN/blob/master/DualAuth-031.png)
-![alt text](https://github.com/NetOpsSupport/IMS-VPN/blob/master/DualAuth-03.png)
+![alt text](https://github.com/NetOpsSupport/IMS-VPN/blob/master/DualAuth-031.png)  
+![alt text](https://github.com/NetOpsSupport/IMS-VPN/blob/master/DualAuth-03.png)  
 ***
 
 #### Upon a successfull scan you will see the following screen.
