@@ -55,12 +55,12 @@
 ![alt text](https://github.com/NetOpsSupport/IMS-VPN/blob/master/Config-05.PNG)
 ***
 
-#### Please enter your username and password.
-#### Username: [domain-user]@ims.local or designated username for VPN
-#### Password: Your [domain-user] password or designated password for VPN
-#### Password for 2FA: 4 digit Pin folow by 6 digit number
+- Please enter your username and password.
+- Username: [domain-user]@ims.local or designated username for VPN
+- Password: Your [domain-user] password or designated password for VPN
+- Password for 2FA: 4 digit Pin folow by 6 digit number
 ![alt text](https://github.com/NetOpsSupport/IMS-VPN/blob/master/Config-06.PNG)
-***
+
 
 #### Now you are connected.
 
