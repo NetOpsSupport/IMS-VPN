@@ -31,8 +31,8 @@
 * Run the installer, And press **CUSTOMIZE** button:  
 ![](https://github.com/NetOpsSupport/IMS-VPN/blob/master/CustomInstall.png)
 
-* Define to use WinTun driver as on the picture below:
-* If "TAP-Windows6" exist you may leave it , WinTun requered 
+* Define to use WinTun driver as on the picture below: 
+* If "TAP-Windows6" exist you may leave it , WinTun requered  
 ![](https://github.com/NetOpsSupport/IMS-VPN/blob/master/CustomInstall%20TUN.png)
 
 # 2. Configuring VPN Software
