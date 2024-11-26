@@ -19,11 +19,10 @@
 
 # Prerequisites
 
-* You should have received a file named [Name].ovpn, if not please request from IT.
-* For outdated Windows 7/8 the latest version to download:  OpenVPN 2.6.2 -- Released 24 March 2023
-* Make sure downloaded colient math with your version of OS , 32 or 64 bit Operating System.  Start -> Run -> msinfo32.exe  may help
-* For Windows 10 \ 11 Download the latest version: https://openvpn.net/community-downloads/
-* For Windows 7 \ 8 Download OpenVPN 2.6.2 -- Released 24 March 2023
+* You should have received a file named [Some-Name].ovpn, if not, please request it from IT.
+* For Windows 10 \ 11, please download the latest version: https://openvpn.net/community-downloads/
+* For outdated Windows 7/8 the latest version to download:  OpenVPN 2.6.2 -- Released 24 March 2023 (NOTE: NOT 100% confirmed, may not work )
+* Make sure the downloaded package matches with your version of OS , 32 or 64 bit Operating System.  Start -> Run -> msinfo32.exe  may help
 
 
 # 1. VPN Client Installation
@@ -32,13 +31,14 @@
 * Run the installer, And press **CUSTOMIZE** button:  
 ![](https://github.com/NetOpsSupport/IMS-VPN/blob/master/CustomInstall.png)
 
-* Define to use WinTun driver as on the picture below:  
+* Define to use WinTun driver as on the picture below:
+* If "TAP-Windows6" exist you may leave it , WinTun requered
 ![](https://github.com/NetOpsSupport/IMS-VPN/blob/master/CustomInstall%20TUN.png)
 
 
 # 2. Configuring VPN Software
 
-#### Copy the file IMS-VPN.ovpn into the folder located at 'C:\Users\[YOUR-USERNAME]\OpenVPN\config'.
+#### Copy given or existing file [Some-Name].ovpn into the folder located at 'C:\Users\[YOUR-USERNAME]\OpenVPN\config'.
 ![alt text](https://github.com/NetOpsSupport/IMS-VPN/blob/master/Config-01.PNG)
 ***
 # 3 Connecting to VPN
@@ -55,8 +55,8 @@
 ![alt text](https://github.com/NetOpsSupport/IMS-VPN/blob/master/Config-05.PNG)
 ***
 
-- Please enter your username and password.
-- Username: [domain-user]@ims.local or designated username for VPN
+- Please enter your username and password. Username and password case sensitive.
+- Username: [domain-user]@ims.local or designated username. 
 - Password: Your [domain-user] password or designated password for VPN
 - Password for 2FA: 4 digit Pin folow by 6 digit number  
 ![alt text](https://github.com/NetOpsSupport/IMS-VPN/blob/master/Config-06.PNG)
